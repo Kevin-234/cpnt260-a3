@@ -3,14 +3,12 @@
 ## Kevin Taguchi
 
 ### Attributions
--w3school 
+- w3school 
 
--CSS-trick
+- CSS-trick
 
--free camp code
+- My CodePen 
 
--My CodePen 
-
--The idea of page down after click button: Credit goes to Patrick.
+- The idea of page down after click button: Credit goes to Patrick.
 
 ## GH [Link](https://kevin-234.github.io/cpnt260-a3/)
