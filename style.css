@@ -15,7 +15,6 @@ body{
   background-size: cover;
   background-position: center;
   background-color: black;
-  
 }
 
 /* TODO: Make hero-section prettier */
@@ -27,7 +26,6 @@ body{
   border: #ffe4c8 solid 1px;
   padding: 3em;
   margin: 10%;
-  
  }
 
 h1, h2 {
@@ -82,7 +80,6 @@ a {
   height: 100vh;
   display: flex;
   align-items: center;
-  
 }
 
 /* position to the center and design it */
@@ -135,7 +132,6 @@ label {
   
   /* give a space between label and input */
   margin-top: 2em;
-  
 }
 
 .text-field p{
